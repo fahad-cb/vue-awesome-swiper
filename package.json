@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "GitRepo": "https://github.com/fahad-cb/swiper.git"
+    "swiper": "https://github.com/fahad-cb/swiper/tarball/master"
   },
   "expDependencies": {
     "node-sass": "^4.7.2",
